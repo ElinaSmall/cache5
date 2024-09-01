@@ -6,4 +6,4 @@ Mechanisms of ligand recognition and activation of melanin-concentrating hormone
 
 
 RMSD Ca-atoms between Cryo-EM-Structure of MCHR1+MCH (complex) and Alfa Fold 3 generated complex MCHR1+MCH without templates: 1.704 A.
-(This example illustrates that Alfa Fold 3 alone can't be used without template based models for cyclic peptide modeling).
+(This example illustrates that Alfa Fold 3 alone can't be used without template based models for cyclic peptide modeling). Nevertheless, the relative position of the R residue in MCHR1 helped to recognize D3.32 as a potentially critical residue.
